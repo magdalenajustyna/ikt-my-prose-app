@@ -10,8 +10,7 @@
   <repositories>
   <repository>
     <id>github</id>
-      <url>https://maven.pkg.github.com/bs-jokri/prose-
-      builder</url>
+      <url>https://maven.pkg.github.com/bs-jokri/prose-builder</url>
     <snapshots>
       <enabled>true</enabled>
     </snapshots>
