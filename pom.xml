@@ -31,4 +31,12 @@
       <version>1.0-0</version>
     </dependency>
   </dependencies>
+
+  <distributionManagement>
+    <repository>
+      <id>ikt-my-prose-app</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/magdalenajustyna/ikt-my-prose-app</url>
+    </repository>
+  </distributionManagement>
 </project>
