@@ -11,6 +11,6 @@ public class App
         builder.register(new SentenceStart());
         builder.register(new SentenceEnd());
         System.out.println(builder.get());
-     
+
     }
 }
